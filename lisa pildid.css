@@ -1,0 +1,22 @@
+h1 {
+    color: #3498db;
+    font-size: 36px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+  }
+  p {
+    color: #333;
+    font-size: 18px;
+    font-family: 'Times New Roman', serif;
+    text-align: justify;
+    line-height: 1.6;
+  }
+  .image {
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 100%;
+    height: auto;
+  }
+    
